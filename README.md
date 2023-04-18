@@ -1,1 +1,3 @@
 # SNHU-CS-300
+
+The problem that was being solved in this course was dealing with how to load a CSV file into numerous different data structures including vectors, hash tables, and binary trees. Data structures are important to understand because choosing a data structure can severly impact the performance of your code in a positive way or a negative way. I overcame a couple of road blocks by emailing my instructor and getting clarification on the project requirements. This project has helped me to further understand hash tables and the difference between hash tables and dictionaries. Using C++ with the proper header files and implementation files has helped me to organize my code and to plan on what I was going to write before I wrote it.
